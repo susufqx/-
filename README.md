@@ -1,2 +1,2 @@
-# susufqx
-I'm a student 
+# 李睿的计算器
+这是一个简单的实现在Mac系统上的计算器软件
